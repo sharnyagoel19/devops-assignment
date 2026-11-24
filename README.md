@@ -6,3 +6,4 @@ A small calculator written in Python.
 - Subtraction
 - Multiplication
 - Division (safe mode)
+- Division (strict mode)
