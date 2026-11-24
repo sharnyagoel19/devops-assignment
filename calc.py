@@ -1,3 +1,8 @@
 def add(a, b): return a + b
 def sub(a, b): return a - b
 def mul(a, b): return a * b
+
+def divide(a, b):
+    if b == 0:
+        raise ValueError("Division by zero not allowed")
+    return a / b
