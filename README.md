@@ -5,3 +5,4 @@ A small calculator written in Python.
 - Addition
 - Subtraction
 - Multiplication
+- Division (safe mode)
